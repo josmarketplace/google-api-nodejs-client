@@ -33,7 +33,7 @@
   "devDependencies": {
     "@microsoft/api-documenter": "^7.8.10",
     "@microsoft/api-extractor": "^7.8.10",
-    "gts": "^5.0.0",
+    "gts": "^6.0.2",
     "null-loader": "^4.0.0",
     "ts-loader": "^9.0.0",
     "typescript": "~4.8.4",
